@@ -1,0 +1,55 @@
+sentence,type,acquisition,recognition,stimuli
+e,four,0,1,the scared cat running from the barking dog jumped on the table
+e,three,1,0,the cat running from the barking dog jumped on the table
+e,three,1,0,the scared cat was running from the barking dog
+e,three,0,1,the scared cat running from the dog jumped on the table
+e,two,1,0,the cat running from the dog jumped on the table
+e,two,1,0,the scared cat jumped on the table
+e,two,0,1,the scared cat was running from the dog
+e,two,0,1,the cat was running from the barking dog
+e,one,1,0,the cat jumped on the table
+e,one,1,0,the dog was barking
+e,one,0,1,the cat was scared
+e,one,0,1,the cat was running from the dog
+f,four,0,1,the old car pulling the trailer climbed the steep hill
+f,three,1,0,the car pulling the trailer climbed the steep hill
+f,three,1,0,the old car climbed the steep hill
+f,three,0,1,the old car pulling the trailer climbed the hill
+f,two,1,0,the old car climbed the hill
+f,two,1,0,the car pulling the trailer climbed the hill
+f,two,0,1,the old car pulled the trailer
+f,two,0,1,the car climbed the steep hill
+f,one,1,0,the hill was steep
+f,one,1,0,the car was pulling the trailer
+f,one,0,1,the car was old
+f,one,0,1,the car climbed the hill
+g,four,0,1,the tall tree in the front yard shaded the man who was smoking his pipe
+g,three,1,0,the tall tree in the front yard shaded the man
+g,three,1,0,the tree in the front yard shaded the man who was smoking his pipe
+g,three,0,1,the tall tree shaded the man who was smoking his pipe
+g,two,1,0,the tree shaded the man who was smoking his pipe
+g,two,1,0,the tall tree was in the front yard
+g,two,0,1,the tall tree shaded the man
+g,two,0,1,the tree in the front yard shaded the man
+g,one,1,0,the man was smoking his pipe
+g,one,1,0,the tree was tall
+g,one,0,1,the tree shaded the man
+g,one,0,1,the tree was in the front yard
+f,four,0,1,the girl who lives next door broke the large window on the porch
+f,three,1,0,the girl who lives next door broke the window on the porch
+f,three,1,0,the girl who lives next door broke the large window
+f,three,0,1,the girl broke the large window on the porch
+f,two,1,0,the large window was on the porch
+f,two,1,0,the girl broke the window on the porch
+f,two,0,1,the girl broke the large window
+f,two,0,1,the girl who lives next door broke the window
+f,one,1,0,the window was large
+f,one,1,0,the girl lives next door
+f,one,0,1,the window was on the porch
+f,one,0,1,the girl broke the window
+noncase,noncase,0,1,the scared cat ran from the barking dog which jumped on the table
+noncase,noncase,0,1,the old man who was smoking his pipe climbed the steep hill
+noncase,noncase,0,1,the tall tree in the front yard shaded the old car
+noncase,noncase,0,1,the barking dog jumped on the old car in the front yard
+noncase,noncase,0,1,the scared cat which broke the window on the porch climbed the tree
+noncase,noncase,0,1,the man who lives next door broke the large window on the porch
